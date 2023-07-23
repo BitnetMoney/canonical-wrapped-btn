@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/WrappedBTN.sol": "Roles"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/WrappedBTN.sol": {
+			"keccak256": "0xa8bd9e02650a74595a94fa93b865dc9aebc565203de4b6ef0e3d1c9dc414a0ff",
+			"urls": [
+				"bzz-raw://fe7edc99d8c63e4ec17861db9be9c8fff580600d40487bfb957afd84ccea609c",
+				"dweb:/ipfs/QmaM2JELG9rwxAMdLgLWW9UELeB1BfuVMEznR7xNpwfs1y"
+			]
+		}
+	},
+	"version": 1
+}
